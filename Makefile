@@ -1,4 +1,4 @@
-.PHONY: icons upgrade
+.PHONY: icons upgrade clean
 
 icons:
 	echo "Generating launcher icons..."
@@ -10,3 +10,8 @@ upgrade:
 	@fvm flutter pub get
 	@fvm flutter pub upgrade
 	@fvm flutter pub upgrade --major-versions
+
+clean:
+	@echo "Cleaning..."
+	@fvm flutter clean
+	@fvm flutter pub get
