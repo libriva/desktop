@@ -1,8 +1,18 @@
 {
   "cSpell.words": [
+    "APARTMENTTHREADED",
+    "APPL",
+    "COINIT",
+    "gboolean",
+    "gchar",
+    "HINSTANCE",
+    "klass",
     "libriva",
+    "prgname",
     "pubspec",
-    "softyes"
+    "softyes",
+    "strdupv",
+    "strfreev"
   ],
   "dart.flutterSdkPath": ".fvm/versions/3.44.6"
 }
