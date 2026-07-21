@@ -2,7 +2,7 @@
   width="128"
   height="128"
   alt="project logo"
-  src="https://github.com/libriva/.github/blob/244e696987919e802111208abb24efbb4cebf747/logo.png?raw=true"
+  src="https://raw.githubusercontent.com/libriva/.github/main/logo.png"
 />
 
 # Libriva | Desktop
